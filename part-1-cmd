@@ -1,0 +1,1 @@
+docker run -d -v /home/indiamart/csvserver/solution/inputFile:/csvserver/inputdata -p 9303:9300  -e CSVSERVER_BORDER=Orange infracloudio/csvserver:latest
