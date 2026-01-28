@@ -18,7 +18,6 @@
 07/09/24 cat id_rsa.pub
 07/09/24 cd /home3/indiamart/csvserver/solution
 07/09/24 cd /home3/indiamart/csvserver/solution
-07/09/24 cd /home3/indiamart/csvserver/solution
 07/09/24 git push -u origin master
 07/09/24 docker images
 07/09/24 docker run -d infracloudio/csvserver:latest
