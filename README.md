@@ -1,3 +1,4 @@
+#test
 07/09/24 sudo systemctl status docker
 07/09/24 sudo docker --version
 07/09/24 docker pull infracloudio/csvserver:latest
